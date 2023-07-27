@@ -1,5 +1,5 @@
-# desafio-conversor
-desafio conversor de moneda 💵
+# desafio-conversor 💵
+desafio conversor de moneda 
 
 ![Captura de Pantalla 2023-07-27 a la(s) 17 09 07](https://github.com/pabloatrujilloe/desafio-conversor/assets/125674912/053d3609-a1a2-4acd-85cc-de43e83801bf)
 
