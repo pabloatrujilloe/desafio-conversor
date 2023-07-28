@@ -14,3 +14,7 @@ desafio conversor de temperatura
 · Eclipse
 
 
+# funcionamiento
+
+https://github.com/pabloatrujilloe/desafio-conversor/assets/125674912/0b9c133b-7702-4523-8cc3-0cb5567d799b
+
